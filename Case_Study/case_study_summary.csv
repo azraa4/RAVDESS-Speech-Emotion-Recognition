@@ -1,0 +1,8 @@
+property,value
+file,03-01-05-01-02-02-24
+true emotion,angry
+true actor,actor 24
+EmotionCNN,angry (correct)
+EmotionSincNet,happy (wrong)
+SpeakerNet,actor 24 (correct)
+SpeakerSincNet,actor 24 (correct)
